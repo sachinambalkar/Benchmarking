@@ -1,0 +1,5 @@
+ServerPort = 4411
+ServerPortUDP = 4412
+ServerIP = 10.0.0.5
+Datasize = 1024
+Iteration = 10
